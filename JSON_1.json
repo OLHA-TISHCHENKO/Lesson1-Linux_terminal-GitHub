@@ -1,0 +1,9 @@
+{
+	"first name":"Nata",
+	"second name":"Bird",
+	"family":{"dauther":{"Name":"Lana",
+			     "Age":3,
+			     "Female":true,
+			     "Toys":["ball", "doll", "bike", 4, 5, null, {"friend":"Artur"}]}
+	}
+}
